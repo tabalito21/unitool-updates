@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "download_url": "https://github.com/tabalito21/unitool-updates/releases/download/v1.0.1/UNITool_Setup_v1.0.1.exe",
-    "notes": "Added New ID Generator\nAuto Update Feature\n\n-KMC"
+    "version": "1.0.2",
+    "download_url": "https://github.com/tabalito21/unitool-updates/releases/download/v1.0.2/UNITool_Setup_v1.0.2.exe",
+    "notes": "Fix Updater always show v1.0.0\nCompany ID Generator Added\nFix Some Bugs"
 }
