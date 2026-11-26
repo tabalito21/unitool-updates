@@ -1,5 +1,5 @@
 {
-    "version": "2.4",
-    "download_url": "https://github.com/tabalito21/unitool-updates/releases/download/v2.4/UNITool_Setup_v2.4.exe",
-    "notes": "Updated UI\nFix ID Layout\nFix Internet Issue\nFix Some bugs\n\n-KMC"
+    "version": "2.5",
+    "download_url": "https://github.com/tabalito21/unitool-updates/releases/download/v2.5/UNITool_Setup_v2.5.exe",
+    "notes": "Added fix for license issues"
 }
