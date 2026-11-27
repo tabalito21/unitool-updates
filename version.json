@@ -1,5 +1,5 @@
 {
-    "version": "2.7",
-    "download_url": "https://github.com/tabalito21/unitool-updates/releases/download/v2.7/UNITool_Setup_v2.7.exe",
-    "notes": "Added NTE Generator Option\n\n-KMC"
+    "version": "2.8.25",
+    "download_url": "https://github.com/tabalito21/unitool-updates/releases/download/v2.8.25/UNITool_Setup_v2.8.25.exe",
+    "notes": "Fix some UI Issue\nAdded NTE NOD option\n\n\n-KMC"
 }
